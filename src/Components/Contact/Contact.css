@@ -71,7 +71,6 @@
 }
 
 .contact-form .submit-button{
-    
     display: flex;
     justify-content: flex-start;
 }
@@ -84,6 +83,8 @@
     border-radius: 6px;
     outline: none;
     cursor: pointer;
+    font-weight: 600;
+    font-family: 'Raleway', sans-serif;
     transition: all 0.3s ease-in-out;
 }
 
