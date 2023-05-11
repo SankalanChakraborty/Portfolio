@@ -11,7 +11,7 @@ const Footer = () => {
         </span>
         <span className="mobile-number">
           <i className="fa-solid fa-phone" />
-          +91 7439458891
+          +91 7439458891, +91 8697462819
         </span>
         <span className="email">
           <i className="fa-solid fa-envelope" />
